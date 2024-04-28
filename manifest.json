@@ -1,7 +1,7 @@
 {
   "name": "AvA Technology | [YT clocked in]",
   "version": "0.1.0",
-  "description": "Saving timestamps in YT videos",
+  "description": "Safeguard your favorite moments in YouTube videos! ⏰🛡️ Never lose track again with easy timestamps and labels.",
   "permissions": ["storage", "tabs"],
   "host_permissions": ["https://*.youtube.com/*"],
   "background": {
